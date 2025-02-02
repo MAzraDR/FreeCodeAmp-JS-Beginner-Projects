@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    font-size: 60px;    
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+button {
+    font-size: 24px;
+    padding: 10px 15px;
+    border: 3px solid black;
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#result {
+    text-align: center;
+    font-size: 72px;
+    color: lightskyblue;
+}
